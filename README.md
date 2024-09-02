@@ -1,4 +1,4 @@
-# Hi there 👋 welcome to my repo, I am Odinaka Nnamani
+# Odinaka Robert Nnamani
 
 <!--
 **Robertpaschal/Robertpaschal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=B0DBF7&vCenter=true&random=true&width=435&lines=I'm+interested+in+Web+development%2C+DevOps%2C+Software+Enginering+%26+Artificial+Intelligenece;Let's+connect+and+build+projects+together!)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=B0DBF7&vCenter=true&random=true&width=435&lines=I'm+interested+in+Web+development+%26+DevOps;Let's+connect+and+build+projects+together!)](https://git.io/typing-svg)
 
 ## About
 I'm your person if you're seeking a dedicated, skilled professional who is genuinely excited about technology and innovation. My journey with programming languages isn't just about writing code but about personal growth, driven by my deep passion for coding. To me, this isn't a job; it's a lifestyle. These languages are like different forms of storytelling to me, and I'm deeply invested in their unique syntaxes! Now, I'm excited to share this journey with you!<br>
@@ -50,7 +50,7 @@ I'm your person if you're seeking a dedicated, skilled professional who is genui
 </p>
 
 ---
-
+## stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=robertpaschal&theme=highcontrast)](https://git.io/streak-stats)
 <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=robertpaschal"/>
 <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=robertpaschal&theme=github"/>
