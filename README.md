@@ -36,7 +36,7 @@ I'm your person if you're seeking a dedicated, skilled professional who is genui
 
 <p align="center">
 <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"  height="40" style="vertical-align:top; margin:4px">
-<a href="https://github.com/robertpaschal target="_blank" rel="noreferrer"> 
+<a href="https://github.com/robertpaschal" target="_blank" rel="noreferrer"> 
 <img  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuZ3SKA8cR3JS27Y_ijrqVSHjoDKjM_bhK7Q&usqp=CAU" alt="GitHub"  height="40" style="vertical-align:top;   margin:4px">
 </a>
 <a href="https://code.visualstudio.com/download" target="_blank" rel="noreferrer">
