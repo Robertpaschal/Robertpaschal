@@ -52,5 +52,5 @@ I'm your person if you're seeking a dedicated, skilled professional who is genui
 ---
 ## Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=robertpaschal&theme=highcontrast)](https://git.io/streak-stats)
-<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=robertpaschal"/>
-<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=robertpaschal&theme=github"/>
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=robertpaschal&theme=highcontrast"/>
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=robertpaschal&theme=highcontrast"/>
