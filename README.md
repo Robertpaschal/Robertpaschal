@@ -19,8 +19,18 @@ Here are some ideas to get you started:
 ## About
 I'm your person if you're seeking a dedicated, skilled professional who is genuinely excited about technology and innovation. My journey with programming languages isn't just about writing code but about personal growth, driven by my deep passion for coding. To me, this isn't a job; it's a lifestyle. These languages are like different forms of storytelling to me, and I'm deeply invested in their unique syntaxes! Now, I'm excited to share this journey with you!<br>
 
-<!--Currently I'm developing [ClickViral](https://clickviral.pythonanywhere.com "ClickViral"): a social media and instant messaging platform<br>
--->
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=robertpaschal&label=Profile%20views&color=0e75b6&style=flat" alt="robertpaschal" />
+</p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://x.com/paschals_robert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nuux_tv" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/odinaka-nnamani-517868187/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="odinaka-nnamani-517868187" height="30" width="40" /></a>
+<a href="https://instagram.com/real_paschal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="real_paschal_" height="30" width="40" /></a>
+<a href="https://discord.com/users/robert_paschal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="paschal" height="30" width="40" /></a>
+</p>
+
 ---
 ### My Stack
 
@@ -54,3 +64,4 @@ I'm your person if you're seeking a dedicated, skilled professional who is genui
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=robertpaschal&theme=highcontrast)](https://git.io/streak-stats)
 <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=robertpaschal&theme=highcontrast"/>
 <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=robertpaschal&theme=highcontrast"/>
+<img height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=robertpaschal&theme=highcontrast" alt="robertpaschal" />
