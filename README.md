@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=B0DBF7&vCenter=true&random=true&width=435&lines=I'm+interested+in+Web+development+%26+DevOps;Let's+connect+and+build+projects+together!)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=B0DBF7&vCenter=true&random=true&width=435&lines=I'm+interested+in+Web+development+%26+DevOps!;Let's+connect+and+build+projects+together!)](https://git.io/typing-svg)
 
 ## About
 I'm your person if you're seeking a dedicated, skilled professional who is genuinely excited about technology and innovation. My journey with programming languages isn't just about writing code but about personal growth, driven by my deep passion for coding. To me, this isn't a job; it's a lifestyle. These languages are like different forms of storytelling to me, and I'm deeply invested in their unique syntaxes! Now, I'm excited to share this journey with you!<br>
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=robertpaschal&label=Profile%20views&color=0e75b6&style=flat" alt="robertpaschal" />
+  <img src="https://komarev.com/ghpvc/?username=robertpaschal&label=Profile%20views&color=0e75b6&style=flat&theme=highcontrast" alt="robertpaschal" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
